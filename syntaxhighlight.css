@@ -1,0 +1,11 @@
+.code-string {
+    color: orangered;
+}
+
+.code-element {
+    color: blue;
+}
+
+.code-comment {
+    color: grey;
+}
